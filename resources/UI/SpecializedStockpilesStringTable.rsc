@@ -1,5 +1,7 @@
 StringTable objects {
 	Entry _strings [
+		{ String _name = "StorageYardTip"; String _text = "Specialized Stock Piles"; }
+		
 		{ String _name = "StorageYardWood";    String _text = "Wood Stock Pile"; }
 		{ String _name = "StorageYardWoodLwr"; String _text = "wood stock pile"; }
 		{ String _name = "StorageYardWoodTip"; String _text = "Used to store logs."; }

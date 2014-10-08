@@ -8,10 +8,10 @@ StorageDescription storage: "Template/StorageYard.rsc:storage" {
 }
 
 ToolbarDescription toolbar: "Template/StorageYard.rsc:toolbar" {
-	SpriteSheet _spriteSheet = "SpriteSheet.rsc";
+	SpriteSheet _spriteSheet = "UI/SpecializedStockpilesSpriteSheet.rsc";
 	String _spriteName = "BuildStorageYardStone";
 	
-	StringTable _stringTable = "StringTable.rsc:objects";
+	StringTable _stringTable = "UI/SpecializedStockpilesStringTable.rsc:objects";
 	String _stringName    = "StorageYardStone";
 	String _stringNameLwr = "StorageYardStoneLwr";
 	String _toolTip       = "StorageYardStoneTip";

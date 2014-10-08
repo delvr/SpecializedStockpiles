@@ -78,8 +78,8 @@ CreateDragDescription createdrag
 	PathBits _placeBits = Normal | Obstacle;
 	int _maxWidth = 10;
 	int _maxHeight = 10;
-	int _minWidth = 2;
-	int _minHeight = 2;		
+	int _minWidth = 1;
+	int _minHeight = 1;		
 
 	ComponentDescription _allowAndRemove = "Template/Clear.rsc";		
 }
