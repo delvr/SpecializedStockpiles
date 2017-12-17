@@ -1,4 +1,4 @@
-![Specialized Stockpiles logo](resources/Preview.png)
+![Specialized Stockpiles logo](resources/Preview.jpg)
 
 # Specialized Stockpiles
 
